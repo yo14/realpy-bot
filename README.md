@@ -7,3 +7,4 @@
 - Responding to Messages
 - Handling Exceptions
 - Connecting a Bot
+- Using Bot Commands
