@@ -6,3 +6,4 @@
 - Welcoming New Members
 - Responding to Messages
 - Handling Exceptions
+- Connecting a Bot
