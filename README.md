@@ -4,3 +4,4 @@
 - Using Utility Functions
 - Responding to Events (using subclass)
 - Welcoming New Members
+- Responding to Messages
