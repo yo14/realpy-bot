@@ -5,3 +5,4 @@
 - Responding to Events (using subclass)
 - Welcoming New Members
 - Responding to Messages
+- Handling Exceptions
