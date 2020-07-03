@@ -8,3 +8,4 @@
 - Handling Exceptions
 - Connecting a Bot
 - Using Bot Commands
+- Converting Parameters Automatically
