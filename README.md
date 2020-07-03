@@ -10,3 +10,5 @@
 - Using Bot Commands
 - Converting Parameters Automatically
 - Checking Command Predicates
+
+- others (background task, status bot)
