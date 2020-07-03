@@ -9,3 +9,4 @@
 - Connecting a Bot
 - Using Bot Commands
 - Converting Parameters Automatically
+- Checking Command Predicates
